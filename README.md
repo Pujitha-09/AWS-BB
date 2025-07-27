@@ -37,7 +37,7 @@
 To run the project locally:
 
 ```bash
-git clone https://github.com/yourusername/aws-budget-buddy.git
+git clone https://github.com/Pujitha-09/AWS-BB.git
 cd aws-budget-buddy
 npm install
 npm start
